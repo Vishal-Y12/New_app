@@ -1,1 +1,1 @@
-<h1 🚀 Awesome News App 📰</h1>
+<h1>🚀 Awesome News App 📰</h1>
