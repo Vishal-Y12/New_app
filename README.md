@@ -22,9 +22,9 @@
 <ul>
   
   <li>The app will load the latest news upon opening. 🔄</li>
-  <li>Interactive UI: User-friendly and visually appealing design. 🎉📊</li>
-  <li>Customizable: Filter news by category and keywords. 🔍🔖</li>
-  <li>Mobile Responsive: Enjoy the app on your mobile devices too. 📱💻</li>
+  <li>Use the navigation bar to filter news by categories. 🗂️</li>
+  <li>Browse through the headlines, click on any article to read the full story. 🗞️</li>
+  <li>Use the search bar to find news articles related to specific keywords. 🔍📑</li>
   
 </ul>
 
