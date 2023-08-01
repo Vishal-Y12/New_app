@@ -9,3 +9,26 @@
   <li>NewAPI.org API Key 🔑</li>
   
 </ul>
+<h1>Features</h1>
+<ul>
+  
+  <li>Real-time updates: Get the latest news as they happen. 🕒📝</li>
+  <li>Interactive UI: User-friendly and visually appealing design. 🎉📊</li>
+  <li>Customizable: Filter news by category and keywords. 🔍🔖</li>
+  <li>Mobile Responsive: Enjoy the app on your mobile devices too. 📱💻</li>
+  
+</ul>
+<h1>How to Use</h1>
+<ul>
+  
+  <li>The app will load the latest news upon opening. 🔄</li>
+  <li>Interactive UI: User-friendly and visually appealing design. 🎉📊</li>
+  <li>Customizable: Filter news by category and keywords. 🔍🔖</li>
+  <li>Mobile Responsive: Enjoy the app on your mobile devices too. 📱💻</li>
+  
+</ul>
+
+
+
+
+
